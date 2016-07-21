@@ -1,0 +1,20 @@
+body {
+	background-color:blue;
+}
+
+h1 {
+	color:yellow;
+}
+
+
+div {
+	background-color:red;
+	height:50px;
+	width:125px;
+	color:red;
+	border-radius:3px;
+}
+
+.pressed {
+	background-color:green;
+}
